@@ -7,7 +7,7 @@
   <body>
     <div class="container">
 
-      <h2><?php echo "Hey there from the root dir! - updated again"; ?></h2>
+      <h2><?php echo "Hey there. I think its working!"; ?></h2>
 
     </div>
   </body>
