@@ -7,7 +7,7 @@
   <body>
     <div class="container">
 
-      <h2><?php echo "It works - broken"; ?></h2>
+      <h2><?php echo "It works"; ?></h2>
 
     </div>
   </body>
