@@ -7,7 +7,7 @@
   <body>
     <div class="container">
 
-      <h2><?php echo "Hello GradEx!"; ?></h2>
+      <h2><?php echo "Hello!"; ?></h2>
 
     </div>
   </body>
